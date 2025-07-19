@@ -5,8 +5,6 @@ Criei essa API para aprender como funcionam rotas e respostas em JSON usando Go.
 
 ## Rota disponível
 
-http://localhost:3333/hello
-
 - GET `/hello`  
   Responde com:
 
